@@ -1,2 +1,2 @@
 *.pdb
-*.exe
+*.exe/target 
