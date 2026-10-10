@@ -19,4 +19,4 @@ fn main() {
     println!("--- P.M. Okeke and Sons Ltd Sales Report ---");
     println!("Total Sales (Sum): N{:.2}", sum);
     println!("Average Sales: N{:.2}", average);
-}
+}  
