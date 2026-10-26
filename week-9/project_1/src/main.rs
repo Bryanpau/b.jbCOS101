@@ -28,4 +28,4 @@ fn main() {
     file.write_all(data.as_bytes()).expect("Failed to write to file");
     
     println!("Nigerian Breweries data successfully written to 'nigerian_breweries.txt'.");
-}
+} 
