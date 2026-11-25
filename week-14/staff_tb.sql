@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict mjM66neIC2iWiqc8uWw8EfaWA81itBWhEJogqyKVYdcDVShXyznUQthcyWrJlFR
+\restrict zkuxOCthNm54JBnVa8BSuIdaYuxBQ2PvmWaf67VjCkNk2mx7VO9rnXm9llUlO7G
 
 -- Dumped from database version 18.7
 -- Dumped by pg_dump version 18.7
@@ -68,5 +68,5 @@ ALTER TABLE ONLY public.staff
 -- PostgreSQL database dump complete
 --
 
-\unrestrict mjM66neIC2iWiqc8uWw8EfaWA81itBWhEJogqyKVYdcDVShXyznUQthcyWrJlFR
+\unrestrict zkuxOCthNm54JBnVa8BSuIdaYuxBQ2PvmWaf67VjCkNk2mx7VO9rnXm9llUlO7G
 
